@@ -1,0 +1,15 @@
+*.csv
+*.pyc
+*.json
+*.pdf
+*.png
+*.npy
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.txt
+
+__pycache__/
+.pytest_cache/
+.env

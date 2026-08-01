@@ -1,0 +1,2 @@
+﻿"""MMAD proposed method implementation."""
+
